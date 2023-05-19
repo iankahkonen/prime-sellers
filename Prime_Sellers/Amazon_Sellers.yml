@@ -1,9 +1,0 @@
-Sellers:
-    css: div.a-section.a-spacing-double-large
-    xpath: null
-    type: Text
-PrimeLogo:
-    css: 'div.a-row span.supersaver'
-    xpath: null
-    multiple: true
-    type: HTML
